@@ -119,8 +119,7 @@ Boston, MA 02111-1307, USA.
 Links
 -----
 
-* Github: https://github.com/sam-ka/cargo-x86_64-windows-wine
-
+* Git: https://code.ka.com.kw/miscellaneous/cargo-x86_64-windows-wine
 * Docker: https://hub.docker.com/r/kutometa/cargo-x86_64-windows-wine
 
 
