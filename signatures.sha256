@@ -1,0 +1,12 @@
+a31460db83e5d0955ee6c7a60ef60fa926af36184c0ccc09eca4e8443d90f01c  ./Dockerfile
+426583dc2ab37ba2ebe9a63827e89d2cc9939e99c2e9f79e3d352b6eb35149cd  ./Makefile
+f5216e467ae12d0b2763d65bc4efa4055239e5e367dd9f773d541ec7a9df5c9f  ./README.md
+08b13d5c0732f9197c07e0387852411ca25ce6d1931e5b3071cf85ebdda3a7a9  ./build-image.sh
+82dc9c9b290514e232ee4832cee3e754c477259c6eec572fe344a7c78d6ddd08  ./container-files/cargo-config
+f1b59f5a8ac7c30bcd13b4a1c1ba984754b4869e188e48bcd695e5e5595f1e82  ./container-files/docker-launcher.sh
+4edcbfeb62714dbb8dbf65d07120e981daa6be31a00b1771fbfd4a64692c1d36  ./container-files/rust-signing-key.pub
+3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  ./gpl-3.0.txt
+e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118  ./lgpl-3.0.txt
+e9d739a1caafc93335ea8579a88fb3a447bffb6259c3bcf6d599e000d5eed215  ./test-crate/Cargo.lock
+db598d5b7d48995775aa6bbe41e326f59f321dbd1a2e77e94c3fb3fde32cc670  ./test-crate/Cargo.toml
+ca51bf47e0f24def094575ca160f4fcb251b756c942cdb8b7313dc739b3bd418  ./test-crate/src/main.rs
