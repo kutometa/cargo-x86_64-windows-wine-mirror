@@ -1,7 +1,7 @@
 # This dockerfile sets up a cross-compilation environment for 
 # x86_64-pc-windows-gnu on Debian 9 "Stretch". Rust 1.40.0.
 #
-# Copyright (C) 2019 Kutometa SPLC
+# Copyright (C) 2019 Kutometa SPC
 # License: LGPLv3
 # https://www.ka.com.kw
 

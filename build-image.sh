@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Copyright (C) 2020 Kutometa SPLC, Kuwait
+# Copyright (C) 2020 Kutometa SPC, Kuwait
 # License: LGPLv3 
 # www.ka.com.kw
 

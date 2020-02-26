@@ -99,7 +99,7 @@ Copyright
 ---------
 جميع الحقوق المتعلقة في هذا العمل محفوظة لشركة كوتوميتا لبرمجة وتشغيل الكمبيوتر وتصميم وإدارة مواقع الإنترنت (ش.ش.و). سنة النشر ٢٠٢٠.
 
-Copyright (C) 2020 Kutometa SPLC, Kuwait. All rights reserved.
+Copyright (C) 2020 Kutometa SPC, Kuwait. All rights reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the third version of the GNU Lesser General 
